@@ -1,0 +1,29 @@
+li strong{
+    font-style: italic;
+    font-weight: normal;
+}
+
+strong {
+    color: red;
+    }
+
+h2 {
+    color: red;
+    }
+
+h2 strong {
+    color: blue;
+    }
+#red a{
+    color: red;
+}
+#green{
+    color: green;
+}
+
+.center{
+    background-color: blue;
+}
+
+
+
